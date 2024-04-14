@@ -46,7 +46,7 @@ class Game:
         self.GREEN = (0, 255, 0)
 
         # Set up the player
-        self.player_width, self.player_height = 50, 50
+        self.player_width, self.player_height = 50, 75
         self.player_x = 50
         self.player_y = self.height - self.player_height
         self.player_vel_y = 0
