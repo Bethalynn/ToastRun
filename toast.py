@@ -70,7 +70,7 @@ class Game:
         self.lives = 3
 
         # Set up image
-        self.image = pygame.image.load("cute bread.webp")
+        self.image = pygame.image.load("CuteToast.png")
         self.image = pygame.transform.scale(self.image,(150, 150))
 
         self.imageKnife = pygame.image.load("cute knife.jpg")
