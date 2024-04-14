@@ -15,3 +15,4 @@ As a tween, I want to play a simple game so that I can de-stress after long hour
 As a tween, I want to play a simple running game by pressing buttons so that I can enjoy the game without having to think too much while playing.  
 As a tween, I want to play a game that is simple yet visually pleasing and cute so that I can have fun and feel happy when playing the game.  
 
+![Toast](https://github.com/Bethalynn/ToastRun/raw/main/gameplay.png)
